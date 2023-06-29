@@ -1,4 +1,7 @@
 # Airlines-Management-System---DBMS-Project
+<p>
+  Airport Management System is a web application, developed to maintain the details of passengers, flight details in an airport. It maintains information about the personal details of the passengers and their bookings. The passengers have the ability to generate and download their flight ticket in a pdf format. Admin can log in and perform their respective functionalities such as clearing and checking in passengers and generating the flight details. Airport Management System is an application developed in HTML, PHP. It is user-friendly and very intuitive. It is fast and can perform many operations which are necessary for an airport. It is simple to understand and can even be used by people who are not even familiar with the workings of an airport.
+</p>
 
 <p>
   <h3>Built Using:</h3>
